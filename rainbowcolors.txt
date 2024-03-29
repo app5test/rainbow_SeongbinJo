@@ -2,3 +2,4 @@ Commit example.
 update example.
 
 이번 색은 노랑색입니다.
+노랑색은 무지개 색입니다.
